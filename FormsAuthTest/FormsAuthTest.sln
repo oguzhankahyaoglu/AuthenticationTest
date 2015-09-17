@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsAuthTest", "FormsAuthTest\FormsAuthTest.csproj", "{F251B70A-13B9-4C3B-8330-4473A7CB4D2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsAuthTest.Application", "FormsAuthTest.Application\FormsAuthTest.Application.csproj", "{3F18DB28-DD75-4E98-88B0-3DCCF989A77A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F251B70A-13B9-4C3B-8330-4473A7CB4D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F251B70A-13B9-4C3B-8330-4473A7CB4D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F251B70A-13B9-4C3B-8330-4473A7CB4D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F251B70A-13B9-4C3B-8330-4473A7CB4D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F18DB28-DD75-4E98-88B0-3DCCF989A77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F18DB28-DD75-4E98-88B0-3DCCF989A77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F18DB28-DD75-4E98-88B0-3DCCF989A77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F18DB28-DD75-4E98-88B0-3DCCF989A77A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\_Github\AuthenticationTest\FormsAuthTest\FormsAuthTest\obj\Debug\FormsAuthTest.csprojResolveAssemblyReference.cache
+D:\_Github\AuthenticationTest\FormsAuthTest\FormsAuthTest\bin\FormsAuthTest.dll.config
+D:\_Github\AuthenticationTest\FormsAuthTest\FormsAuthTest\bin\FormsAuthTest.dll
+D:\_Github\AuthenticationTest\FormsAuthTest\FormsAuthTest\bin\FormsAuthTest.pdb
+D:\_Github\AuthenticationTest\FormsAuthTest\FormsAuthTest\bin\FormsAuthTest.Application.dll
+D:\_Github\AuthenticationTest\FormsAuthTest\FormsAuthTest\bin\Kahia.Common.Extensions.dll
+D:\_Github\AuthenticationTest\FormsAuthTest\FormsAuthTest\bin\FormsAuthTest.Application.pdb
+D:\_Github\AuthenticationTest\FormsAuthTest\FormsAuthTest\bin\Kahia.Common.Extensions.pdb
+D:\_Github\AuthenticationTest\FormsAuthTest\FormsAuthTest\obj\Debug\FormsAuthTest.dll
+D:\_Github\AuthenticationTest\FormsAuthTest\FormsAuthTest\obj\Debug\FormsAuthTest.pdb
